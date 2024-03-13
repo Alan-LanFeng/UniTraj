@@ -22,7 +22,7 @@ conda activate unitraj
 2. Install Unitraj:
 ```bash
 git clone https://github.com/vita-epfl/MotionNet.git
-cd motionnet
+cd unitraj
 pip install -r requirements.txt
 wandb login
 ```
